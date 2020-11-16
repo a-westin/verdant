@@ -35,9 +35,7 @@
   Users are brought to an inital landing page. From there, they can either click on the 'explore' button, which will bring them directly to the plants search page, or they can register for a new account by clicking that link in the navbar. After creating an account, log in and then begin to customize the account page by saving any desired plants and/or articles. Users also have the option to delete saved items from their account, as well as to get more info about the plant or article by clicking on the link which will redirect to the corresponding website.
   
  ![Screen Shot 2020-11-16 at 1 12 40 PM](https://user-images.githubusercontent.com/69770137/99292585-68a20080-280f-11eb-9498-38b2718dad30.png)
- 
- ![Screen Shot 2020-11-16 at 1 05 19 PM](https://user-images.githubusercontent.com/69770137/99292540-5758f400-280f-11eb-93f7-c3299670bd29.png)
- 
+  
  ![Screen Shot 2020-11-16 at 1 14 06 PM](https://user-images.githubusercontent.com/69770137/99292642-81121b00-280f-11eb-9faf-2dfab5401704.png)
  
  ![Screen Shot 2020-11-16 at 1 14 30 PM](https://user-images.githubusercontent.com/69770137/99292654-85d6cf00-280f-11eb-995d-8b12b1a782a8.png)
